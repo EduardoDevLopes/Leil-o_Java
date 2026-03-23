@@ -22,12 +22,12 @@ git config --global user.email eduardo7opes5@gmail.com
 👉 git remote add origin 
 https://github.com/EduardoDevLopes/Leil-o_Java.git
 
-# empurrar para o GtiHub
+# empurrar para o GitHub
 
 👉 git push -u origin main
 
 ## 🤖 Tecnologias utilizadas
 - Java
- - mySQL
- - GitHub
- - Git Bash
+- mySQL
+- GitHub
+- Git Bash
