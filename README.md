@@ -1,6 +1,6 @@
 # 🖥️ leiloesTDSAT
 
-este e um projeto educacional utilizado na aula de versionamento de software.
+Este é um projeto educacional utilizado na aula de versionamento de software.
 
 ## ✅Tarefas
 
@@ -10,8 +10,6 @@ git config --global user.email eduardo7opes5@gmail.com
 
 # iniciar versionamento
 👉gitinit
-
-# Untracked: arquivos e pastas que posso apontar para compor o meu commit
 
 # Apontar arquivos para compor o commit
 👉 git add .
@@ -24,10 +22,11 @@ git config --global user.email eduardo7opes5@gmail.com
 👉 git remote add origin 
 https://github.com/EduardoDevLopes/Leil-o_Java.git
 
-# empurrar para o GtiHub
+# empurrar para o GitHub
 
 👉 git push -u origin main
 
 ## 🤖 Tecnologias utilizadas
 - Java
  - mySQL
+ - Git Bash
